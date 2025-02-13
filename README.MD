@@ -1,6 +1,6 @@
 # Bankist Website
 
-This project is a minimalist banking website called **Bankist**. It showcases various modern web development techniques and features, including smooth scrolling, lazy loading images, sticky navigation, tabbed components, and a slider component.
+This project is a minimalist banking website called **Bankist**. It showcases various modern web development techniques and features, **including smooth scrolling**, **lazy loading images**, **sticky navigation**, **tabbed components**, and **a slider component**.
 
 ## Features
 
