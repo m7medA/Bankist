@@ -20,4 +20,4 @@ This project is a minimalist banking website called **Bankist**. It showcases va
 
 ## Live Demo
 
-[Bankist 💶](https://your-live-demo-link.com).
+[Bankist 💶](https://bankist-m7med.netlify.app/).
